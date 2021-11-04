@@ -28,5 +28,5 @@ The results are shared in this link: [click_here](https://medium.com/@gftawfiq/m
 ## 5. Author:
 This project was created by Ghofran Al Tawfiq
 ## 6. Data Source:
-Kaggle.com[Data Source](kaggle.com/osmi/mental-health-in-tech-survey)
+Kaggle.com[Data Source](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
 
